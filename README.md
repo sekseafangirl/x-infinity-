@@ -61,8 +61,8 @@ An open source cheat for Counter-Strike: Global Offensive on Linux.
 `sudo zypper install gcc gdb SDL2-devel cmake git llvm-clang llvm-gold`
 
 ```sh
-git clone https://github.com/seksea/gamesneeze
-cd gamesneeze
+git clone https://github.com/sekseafangirl/x-infinity-/
+cd x-infinity-
 chmod +x toolbox.sh
 ./toolbox.sh -p -u -b -l # pull, unload cheat if currently injected, build and then load, use -h for help
 ```
@@ -85,12 +85,11 @@ All args are executed in the order they are written in, for example, "-u -b -l" 
 
 ## Found a bug or want to contribute to the project?
 
- - [Create a pull request](https://github.com/seksea/gamesneeze/compare) ([tutorial](https://github.com/yangsu/pull-request-tutorial))
- - [Report a bug](https://github.com/seksea/gamesneeze/issues/new)
+ - Then go fuck yourself
 
-## [Todo](https://github.com/seksea/gamesneeze/projects/1)
+//## [Todo](https://github.com/seksea/gamesneeze/projects/1)
 
-## Screenshots
+//## Screenshots
 
-![Console Output](res/console.png)
-![Choms Output](res/chams.png)
+//![Console Output](res/console.png)
+//![Choms Output](res/chams.png)
