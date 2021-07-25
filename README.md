@@ -1,3 +1,5 @@
+I was hacked and people changed some of my shit to say gamesneeze instead of x∞
+
 <p align="center">
   <a href="/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="MIT License"></a>
   <a><img src="https://img.shields.io/badge/OS-Linux-green.svg" alt="Linux"></a>
