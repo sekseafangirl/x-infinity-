@@ -45,9 +45,9 @@ An open source cheat for Counter-Strike: Global Offensive on Linux.
 
 ## How to use
 
-### Debian / Ubuntu / Pop OS / Linux Mint required packages:
+### Debian / Shitbuntu / Pop OS / Linux Mint required packages:
 
-`sudo apt install -y libsdl2-dev cmake git gcc-10 g++-10 gdb clang`
+`fuck you`
 
 ### Arch / Manjaro required packages:
 
